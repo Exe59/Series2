@@ -60,15 +60,12 @@ http://iptvcanales.gq/canales/stream/0077/playlist.m3u8
 #EXTINF:-1 group-title="HBO Premium",HBO Xtreme HD
 http://iptvcanales.gq/canales/stream/0078/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="[SD:] CULTURA - HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1220px-History_Logo.svg.png" group-title="CULTURALES",[SD:] CULTURA - HISTORY CHANNEL
-http://gratis.shortgod.com/descarga-shortgod211/tv1.php?c=3394
 
-#EXTINF:-1 tvg-id="" tvg-name="[HD:] CULTURA - HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1220px-History_Logo.svg.png" group-title="CULTURALES",[SD:] CULTURA - HISTORY CHANNEL
-http://soberon.us:25461/bullnew/soberonnew/123
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-ulqJGWBJCHg/XcsQ04T68AI/AAAAAAAAA0A/7mljS6zzCgYvwiLzFfIruCq4-scZiuT-QCLcBGAsYHQ/s200/El%2Bchavo%2Bdel%2B8.png" group-title="24/7 INFANTIL",24/7 El Chavo del 8 (e)(SD)
+http://tv.plusk.xyz:28000/jpapeleto/tz5Xjj59W2/37746
 
-#EXTINF:-1 tvg-id="" tvg-name="Latino | History 2" tvg-logo="" group-title="",Latino | History 2
-http://soberon.us:25461/bullnew/soberonnew/122
-
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="DOC-History Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CANALES-DOCUMENTALES",DOC-History Channel (M)(1080)
+http://tv.plusk.xyz:28000/jpapeleto/tz5Xjj59W2/1406
 
 
 
